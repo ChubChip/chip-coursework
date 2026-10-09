@@ -80,4 +80,4 @@ Output
 time is 10:45:15
 ```
 
-ไฟล์โปรแกรม: `06_time_validation.cpp`
+ไฟล์โปรแกรม: `06-time_validation.cpp`
